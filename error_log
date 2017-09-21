@@ -1,0 +1,19 @@
+[21-May-2016 18:58:08 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/ambio802/public_html/buscador/index.php on line 11
+[21-May-2016 18:58:23 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/ambio802/public_html/buscador/index.php on line 17
+[21-May-2016 19:05:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/ambio802/public_html/buscador/index.php on line 17
+[21-May-2016 19:07:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/ambio802/public_html/buscador/index.php on line 17
+[21-May-2016 19:19:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/ambio802/public_html/buscador/index.php on line 17
+[21-May-2016 21:07:26 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/ambio802/public_html/buscador/index.php on line 24
+[21-May-2016 21:30:03 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 'l' in /home/ambio802/public_html/buscador/index.php on line 44
+[24-May-2016 20:08:23 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Delimiter must not be alphanumeric or backslash in /home/ambio802/public_html/buscador/index.php on line 35
+[24-May-2016 20:31:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ambio802/public_html/buscador/index.php on line 40
+[24-May-2016 20:46:39 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier '&gt;' in /home/ambio802/public_html/buscador/index.php on line 37
+[24-May-2016 20:52:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO in /home/ambio802/public_html/buscador/index.php on line 24
+[26-May-2016 22:33:49 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/ambio802/public_html/buscador/index.php on line 48
+[26-May-2016 22:33:52 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/ambio802/public_html/buscador/index.php on line 48
+[26-May-2016 22:34:14 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/ambio802/public_html/buscador/index.php on line 48
+[26-May-2016 22:34:18 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/ambio802/public_html/buscador/index.php on line 48
+[26-May-2016 22:43:52 America/Chicago] PHP Warning:  file_get_contents(http://www.google.com.br/search?q=strategic management sharing economy  sustainability) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/ambio802/public_html/buscador/index.php on line 31
+[26-May-2016 22:43:52 America/Chicago] PHP Warning:  file_get_contents(http://www.bing.com/search?q=strategic management sharing economy  sustainability&amp;pq=strategic management sharing economy  sustainability&amp;go=Enviar&amp;qs=n&amp;form=QBLH&amp;cc=br&amp;cvid=23A92EB34E6648ABA08ABA125F03399D) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/ambio802/public_html/buscador/index.php on line 44
